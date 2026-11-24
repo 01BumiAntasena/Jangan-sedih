@@ -1,2 +1,2 @@
 # letter-project
-"i hope you read this, even if it's too late."
+"May you always be surrounded by happiness."

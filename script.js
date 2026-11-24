@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `Halo cantiku, sayangku duniaku.\nsedang sedih ya? pantes disini hujan ternyata cantiku lagi ga baik baik aja, manusia setan emang orang kaya gitus.\n\ntapi aku tau kamu udah hebat bisa ngadepin orang gitu wkk. terimakasih ya udah jadi anak baik. Kalau hari kamu buruk kamu harus selalu "inget" \n\nI if you are having a bad day, remember is just a bad day not a bad life\n\nAnyway, I hope you're doing okay, karena akan selalu ada aku yang menunggu ceritamu.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
